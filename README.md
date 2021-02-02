@@ -119,7 +119,7 @@ View the [Walkthrough video here.](https://drive.google.com/file/d/1pDzPvuhKgv-f
 </br>
 
 ## Deployment
-View[Github repository URL](https://github.com/jorgeebn16/12-SQL-Challenge)
+View [Github repository URL](https://github.com/jorgeebn16/12-SQL-Challenge)
 
 ## Contributing
 [![GitHub contributors](https://img.shields.io/github/contributors/jorgeebn16/12-SQL-Challenge.svg)](https://GitHub.com/Naereen/jorgeebn16/12-SQL-Challenge/graphs/contributors/)
